@@ -1,5 +1,5 @@
 # EjercicioPruebasTecnicasProgramacion
-## mi repositorio es: 
+## mi repositorio es: https://github.com/Juank2003/EjercicioPruebasTecnicasProgramacion.git
 
 ## Debe escribir:
 

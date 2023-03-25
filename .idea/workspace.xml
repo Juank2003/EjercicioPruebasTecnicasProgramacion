@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5f80107-322e-473f-bcee-e1045c5ad8fd" name="Changes" comment="CreacionMetodoPrincipal">
+    <list default="true" id="f5f80107-322e-473f-bcee-e1045c5ad8fd" name="Changes" comment="PruebaFuncionamiento">
       <change beforePath="$PROJECT_DIR$/src/main/java/pruebas/ClaseCadena.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pruebas/ClaseCadena.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +51,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679744266024</updated>
-      <workItem from="1679744267589" duration="386000" />
+      <workItem from="1679744267589" duration="687000" />
     </task>
     <task id="LOCAL-00001" summary="CreacionClaseCadena">
       <created>1679744338416</created>
@@ -67,7 +67,21 @@
       <option name="project" value="LOCAL" />
       <updated>1679744474847</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="MetodoPrincipalPrueba">
+      <created>1679744669737</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1679744669737</updated>
+    </task>
+    <task id="LOCAL-00004" summary="PruebaFuncionamiento">
+      <created>1679744807069</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1679744807069</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,6 +101,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="CreacionClaseCadena" />
     <MESSAGE value="CreacionMetodoPrincipal" />
-    <option name="LAST_COMMIT_MESSAGE" value="CreacionMetodoPrincipal" />
+    <MESSAGE value="MetodoPrincipalPrueba" />
+    <MESSAGE value="PruebaFuncionamiento" />
+    <option name="LAST_COMMIT_MESSAGE" value="PruebaFuncionamiento" />
   </component>
 </project>

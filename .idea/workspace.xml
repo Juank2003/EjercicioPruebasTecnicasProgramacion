@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5f80107-322e-473f-bcee-e1045c5ad8fd" name="Changes" comment="CambioMetodoDevuelveInicialesConExcepciones">
-      <change afterPath="$PROJECT_DIR$/src/test/java/CadenaClaseTest.java" afterDir="false" />
+    <list default="true" id="f5f80107-322e-473f-bcee-e1045c5ad8fd" name="Changes" comment="RealizacionDeLosTest">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pruebas/ClaseCadena.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pruebas/ClaseCadena.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +47,20 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pruebas.Main" />
+      <module name="EjercicioPruebasTecnicasProgramacion" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pruebas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CadenaClaseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="EjercicioPruebasTecnicasProgramacion" />
       <option name="PACKAGE_NAME" value="" />
@@ -60,6 +72,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.CadenaClaseTest" />
       </list>
     </recent_temporary>
@@ -72,7 +85,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679744266024</updated>
-      <workItem from="1679744267589" duration="2415000" />
+      <workItem from="1679744267589" duration="2715000" />
     </task>
     <task id="LOCAL-00001" summary="CreacionClaseCadena">
       <created>1679744338416</created>
@@ -130,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679746325827</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="RealizacionDeLosTest">
+      <created>1679746697055</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1679746697055</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,6 +176,7 @@
     <MESSAGE value="AñadirExcepcionesAlMetodo" />
     <MESSAGE value="FuncionaPorParametrosIntroducidosAlCodigo" />
     <MESSAGE value="CambioMetodoDevuelveInicialesConExcepciones" />
-    <option name="LAST_COMMIT_MESSAGE" value="CambioMetodoDevuelveInicialesConExcepciones" />
+    <MESSAGE value="RealizacionDeLosTest" />
+    <option name="LAST_COMMIT_MESSAGE" value="RealizacionDeLosTest" />
   </component>
 </project>

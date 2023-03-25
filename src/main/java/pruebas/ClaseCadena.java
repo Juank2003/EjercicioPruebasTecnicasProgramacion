@@ -12,7 +12,7 @@ public class ClaseCadena {
             }
             else if(palabras.length > 1){
                 for(String palabra : palabras){
-                    if (palabra.matches(".*\\d.")){
+                    if (!palabra.matches("\\D+")){
                         throw new IllegalAccessException("Error: El nombre y apellido no pueden contener valores numéricos");
                     }
                 inicial += palabra.substring(0, 1)+".";

@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5f80107-322e-473f-bcee-e1045c5ad8fd" name="Changes" comment="AñadirExcepcionesAlMetodo">
-      <change beforePath="$PROJECT_DIR$/src/main/java/pruebas/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pruebas/Main.java" afterDir="false" />
+    <list default="true" id="f5f80107-322e-473f-bcee-e1045c5ad8fd" name="Changes" comment="FuncionaPorParametrosIntroducidosAlCodigo">
+      <change beforePath="$PROJECT_DIR$/src/main/java/pruebas/ClaseCadena.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pruebas/ClaseCadena.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +51,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679744266024</updated>
-      <workItem from="1679744267589" duration="1445000" />
+      <workItem from="1679744267589" duration="1782000" />
     </task>
     <task id="LOCAL-00001" summary="CreacionClaseCadena">
       <created>1679744338416</created>
@@ -95,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679745516702</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="FuncionaPorParametrosIntroducidosAlCodigo">
+      <created>1679746030285</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1679746030285</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,6 +126,7 @@
     <MESSAGE value="PruebaFuncionamiento" />
     <MESSAGE value="CorreccionEnMEtodoDevuelveIniciales" />
     <MESSAGE value="AñadirExcepcionesAlMetodo" />
-    <option name="LAST_COMMIT_MESSAGE" value="AñadirExcepcionesAlMetodo" />
+    <MESSAGE value="FuncionaPorParametrosIntroducidosAlCodigo" />
+    <option name="LAST_COMMIT_MESSAGE" value="FuncionaPorParametrosIntroducidosAlCodigo" />
   </component>
 </project>

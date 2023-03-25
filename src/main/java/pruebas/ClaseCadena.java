@@ -8,14 +8,14 @@ public class ClaseCadena {
             String[] palabras = cadena.split(" ");
 
             if (palabras.length == 1) {
-                inicial= palabras[0].substring(0, 1)+".";
+                inicial= palabras[0].charAt(0)+".";
             }
             else if(palabras.length > 1){
                 for(String palabra : palabras){
-                    if (!palabra.matches("\\D+")){
-                        throw new IllegalAccessException("Error: El nombre y apellido no pueden contener valores numéricos");
+                    if (!palabra.matches("^[a-zA-Z\\s]+$")){
+                        throw new IllegalAccessException("Error: El nombre y apellido no pueden contener caracteres especiales o valores numéricos");
                     }
-                inicial += palabra.substring(0, 1)+".";
+                inicial += palabra.charAt(0)+".";
                 }
             }
             else {

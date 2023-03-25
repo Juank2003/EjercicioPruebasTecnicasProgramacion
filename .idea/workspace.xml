@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5f80107-322e-473f-bcee-e1045c5ad8fd" name="Changes" comment="FuncionaPorParametrosIntroducidosAlCodigo">
-      <change beforePath="$PROJECT_DIR$/src/main/java/pruebas/ClaseCadena.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pruebas/ClaseCadena.java" afterDir="false" />
+    <list default="true" id="f5f80107-322e-473f-bcee-e1045c5ad8fd" name="Changes" comment="CambioMetodoDevuelveInicialesConExcepciones">
+      <change afterPath="$PROJECT_DIR$/src/test/java/CadenaClaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,9 +42,28 @@
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="CadenaClaseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EjercicioPruebasTecnicasProgramacion" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CadenaClaseTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CadenaClaseTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -51,7 +72,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679744266024</updated>
-      <workItem from="1679744267589" duration="1782000" />
+      <workItem from="1679744267589" duration="2415000" />
     </task>
     <task id="LOCAL-00001" summary="CreacionClaseCadena">
       <created>1679744338416</created>
@@ -102,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679746030285</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="CambioMetodoDevuelveInicialesConExcepciones">
+      <created>1679746325827</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1679746325827</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,6 +155,7 @@
     <MESSAGE value="CorreccionEnMEtodoDevuelveIniciales" />
     <MESSAGE value="AñadirExcepcionesAlMetodo" />
     <MESSAGE value="FuncionaPorParametrosIntroducidosAlCodigo" />
-    <option name="LAST_COMMIT_MESSAGE" value="FuncionaPorParametrosIntroducidosAlCodigo" />
+    <MESSAGE value="CambioMetodoDevuelveInicialesConExcepciones" />
+    <option name="LAST_COMMIT_MESSAGE" value="CambioMetodoDevuelveInicialesConExcepciones" />
   </component>
 </project>
